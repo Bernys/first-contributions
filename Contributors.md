@@ -81,9 +81,9 @@
 - [Sanskar Vijpuria](https://github.com/sanskarvijpuria)
 - [Ofir Forscher](https://github.com/ofir870)
 - [AlexARNcode](https://github.com/AlexARNcode)
-- [xBernys Castillo](https://github.com/xBernys)
 - [asmallgod](https://github.com/asmallgod)
 - [Sammed98](https://github.com/Sammed98)
+- [xBernys Castillo](https://github.com/xBernys)
 - [Neila Toofuny](https://github.com/ntoofuny)
 - [Anthony Chavez]
 - [fcomovaz](https://github.com/fcomovaz)
